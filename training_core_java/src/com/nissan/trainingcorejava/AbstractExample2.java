@@ -11,6 +11,11 @@ package com.nissan.trainingcorejava;
 abstract class ParentClass2
 {
 	public ParentClass2() {
+		
+		
+		
+		
+		
 		// TODO Auto-generated constructor stub
 	}
 	abstract void run();
@@ -23,7 +28,7 @@ public class AbstractExample2 extends ParentClass2 {
 
 	void run()
 	{
-		System.out.println("Running");
+		System.out.println("Running Running");
 	}
 	/**
 	 * @param args
